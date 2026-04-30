@@ -1,0 +1,13 @@
+{
+  "name": "bulk-name-phone-extractor",
+  "version": "1.0.0",
+  "description": "Apify actor for bulk extraction of phone numbers from CyberBackgroundChecks",
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "apify": "^3.0.0",
+    "cheerio": "^1.0.0"
+  },
+  "author": "Baetheape",
+  "license": "MIT"
+}
